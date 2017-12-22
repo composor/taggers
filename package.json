@@ -1,6 +1,6 @@
 {
   "name": "taggers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library that enables tag shortcuts for Composi h function",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "virtual-dom",
     "composi"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/composor/taggers.git"
+  },
   "author": "rbiggs",
   "license": "MIT"
 }
