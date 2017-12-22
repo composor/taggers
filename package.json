@@ -1,0 +1,16 @@
+{
+  "name": "taggers",
+  "version": "1.0.0",
+  "description": "A library that enables tag shortcuts for Composi h function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyperscript",
+    "virtual-dom",
+    "composi"
+  ],
+  "author": "rbiggs",
+  "license": "MIT"
+}
